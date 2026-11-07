@@ -27,3 +27,6 @@ How to View
 2. Open the required practical folder.
 3. Open its index.html file in a web browser.
 No additional installation is required for the HTML and CSS practicals.
+
+IMPORTANT
+For the initial git P1-P4 projects please check the code version as it wraps in the regular text readme.md version making it harder to read.
