@@ -34,4 +34,5 @@ IMPORTANT
 For the initial git P1-P4 projects please check the CODE of README.md as it wraps the regular text in PREVIEW version of README.md version making it harder to read.
 <img width="861" height="939" alt="image" src="https://github.com/user-attachments/assets/54f8a05b-f880-4522-b82d-1b36725c2614" />
 
-<img width="785" height="911" alt="image" src="https://github.com/user-attachments/assets/a09deecd-c465-4c89-9555-675fbbc20e2c" />
+<img width="820" height="782" alt="image" src="https://github.com/user-attachments/assets/ce158e6b-f6dd-497f-88f8-0fdb52f114fb" />
+
