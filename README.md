@@ -15,6 +15,7 @@ The repository is organised by practical:
 - P11/ – Three-column newspaper layout using CSS Grid
 - P12/ – Portfolio projects grid using CSS Grid
 - P13/ – Comparison of Flexbox and Grid
+
 Each practical's files are stored in its respective folder.
 Technologies Used
 - HTML5
