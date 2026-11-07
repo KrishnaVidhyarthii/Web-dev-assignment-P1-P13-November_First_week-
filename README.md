@@ -22,6 +22,8 @@ Technologies Used
 - CSS3
 - Git
 - GitHub
+
+
 How to View
 1. Clone or download this repository.
 2. Open the required practical folder.
