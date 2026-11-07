@@ -19,7 +19,9 @@ git init
 
 Create an index.html file:(touch index.html 
 open -e index.html
-writing the code there)
+//writing the code there
+
+
 <!DOCTYPE html>
 <html>
 <head>
