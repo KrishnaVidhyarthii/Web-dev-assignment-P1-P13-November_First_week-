@@ -1,5 +1,6 @@
 P2: Portfolio Repository with an Initial Commit
 
+
 Aim: To create a Git repository for a portfolio project and make the initial commit.
 
 Procedure:
