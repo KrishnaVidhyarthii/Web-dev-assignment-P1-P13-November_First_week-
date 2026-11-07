@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>P5 Responsive cards</title>
+
+    <style>
+        body{
+            margin:0;
+            font-family:Arial;
+        }
+
+        nav{
+            display:flex;
+            justify-content:space-between;
+            align-items:center;
+            background:black;
+            padding:20px;
+            color:white;
+        }
+
+        .links{
+            display:flex;
+            gap:20px;
+        }
+
+        .links a{
+            color:white;
+            text-decoration:none;
+        }
+
+        .cards{
+            display:flex;
+            flex-wrap:wrap;
+            gap:20px;
+            padding:30px;
+            justify-content:center;
+        }
+
+        .card{
+            width:250px;
+            padding:20px;
+            background:#eee;
+            border-radius:20px;
+        }
+
+        @media (max-width: 600px){
+            nav{
+                flex-direction:column;
+                gap:20px;
+            }
+
+            .links{
+                flex-direction:column;
+                text-align:center;
+            }
+
+            .card{
+                width:100%;
+            }
+        }
+    </style>
+</head>
+<body>
+<nav>
+    <h2>Test Website</h2>
+    <div class="links">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Projects</a>
+        <a href="#">Contact</a>
+    </div>
+</nav>
+<div class="cards">
+    <div class="card">
+        <h2>Card 1</h2>
+        <p>Ahoy!</p>
+    </div>
+    <div class="card">
+        <h2>Card 2</h2>
+        <p>Bonjour!</p>
+    </div>
+    <div class="card">
+        <h2>Card 3</h2>
+        <p>Cheers!</p>
+    </div>
+    <div class="card">
+        <h2>Card 4</h2>
+        <p>Day-ho!</p>
+    </div>
+</div>
+</body>
+</html>

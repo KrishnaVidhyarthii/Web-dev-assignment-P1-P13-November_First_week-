@@ -1,0 +1,50 @@
+P3: Feature-Branch Git Workflow
+Aim: To understand and implement the feature-branch workflow using Git.
+
+Procedure:
+1. Create a new feature branch.
+2. Switch to the feature branch.
+3. Make changes to the project.
+4. Stage and commit the changes.
+5. Merge the feature branch into the main branch.
+Commands:
+
+Create a feature branch:
+git branch feature-about
+
+
+Switch to the branch:
+git switch feature-about
+
+
+Create an about.html file:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <p>Hello! I am a web development student.</p>
+</body>
+</html>
+
+
+Stage and commit:
+git add about.html
+git commit -m "Add about page"
+
+
+Switch to the main branch:
+git switch main
+
+
+Merge the feature branch:
+git merge feature-about
+
+
+View the branches:
+git branch
+
+
+Result: Successfully implemented a feature-branch workflow and merged the feature into the main branch.

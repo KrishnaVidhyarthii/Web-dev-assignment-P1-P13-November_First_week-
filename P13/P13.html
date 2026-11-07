@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>P9 Flexgrid</title>
+    <style>
+        body{
+            margin:0;
+            font-family:Arial;
+        }
+        /* Flexbox for navigation
+        cause its 1 dimentional*/
+        nav{
+            display:flex;
+            justify-content:space-between;
+            align-items:center;
+            background:black;
+            color:white;
+            padding:15px 30px;
+        }
+        .links{
+            display:flex;
+            gap:20px;
+        }
+        .links a{
+            color:white;
+            text-decoration:none;
+        }
+        /* Flexbox for cards cause they r mainly 1 diemnsion*/
+        .cards{
+            display:flex;
+            gap:20px;
+            padding:30px;
+        }
+        .card{
+            flex:1;
+            background:#eee;
+            padding:20px;
+        }
+        /* Grid for two-dimensional section */
+        .content{
+            display:grid;
+            grid-template-columns:2fr 1fr;
+            grid-template-rows:150px 150px;
+            gap:20px;
+            padding:30px;
+        }
+        .box{
+            background:#ddd;
+            padding:20px;
+        }
+    </style>
+</head>
+<body>
+<nav>
+    <h2>Test Website</h2>
+    <div class="links">
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </div>
+</nav>
+<div class="cards">
+    <div class="card">
+        <h2>Card 1</h2>
+        <p>Konnichiwa!</p>
+    </div>
+    <div class="card">
+        <h2>Card 2</h2>
+        <p>Qué tal?</p>
+    </div>
+
+    <div class="card">
+        <h2>Card 3</h2>
+        <p>Zup?</p>
+    </div>
+    </div>
+<div class="content">
+    <div class="box">
+        <h2>Main Content</h2>
+        <p>People are demanding more blahaj</p>
+    </div>
+    <div class="box">
+        <h2>Side Content</h2>
+        <p>UUHHH idk</p>
+    </div>
+    <div class="box">
+        <h2>More Content</h2>
+        <p>Blahaj on sale, gift ur brother a blahaj on this rakshabandhan.</p>
+    </div>
+    <div class="box">
+        <h2>News</h2>
+        <p>Random got full marks in lab work!</p>
+    </div>
+</div>
+</body>
+</html>
