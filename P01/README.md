@@ -1,6 +1,4 @@
 P1: Project Folder and Terminal Navigation
-
-
 Aim: To create a project folder and learn basic terminal navigation commands.
 
 Commands:
