@@ -29,4 +29,4 @@ How to View
 No additional installation is required for the HTML and CSS practicals.
 
 IMPORTANT
-For the initial git P1-P4 projects please check the code version as it wraps in the regular text readme.md version making it harder to read.
+For the initial git P1-P4 projects please check the CODE of README.md as it wraps the regular text in PREVIEW version of README.md version making it harder to read.
