@@ -15,5 +15,4 @@ Explanation:
 - Flexbox is used in the header to arrange the logo and navigation links horizontally.
 - CSS Grid is used in the main section to create a two-column layout.
 - Flexbox is used in the footer to center the content.
-- Media queries make the layout responsive on smaller screens.
 Result: Successfully implemented a shared webpage layout using both Flexbox and CSS Grid and understood when to use each layout system.
