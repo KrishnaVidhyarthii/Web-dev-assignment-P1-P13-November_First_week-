@@ -39,6 +39,9 @@ git log
 
 
 Result: Successfully created a portfolio Git repository and made the initial commit.
+
+Terminal proof:
+
 <img width="866" height="346" alt="Screenshot 2026-11-10 at 7 47 56 PM" src="https://github.com/user-attachments/assets/37b51e74-d144-4d40-b9ee-7614ef85c87c" />
 <img width="833" height="398" alt="Screenshot 2026-11-10 at 7 49 51 PM" src="https://github.com/user-attachments/assets/c2319e9f-162d-40e2-9782-7bf70dd521ef" />
 <img width="847" height="213" alt="Screenshot 2026-11-10 at 7 54 37 PM" src="https://github.com/user-attachments/assets/cb6c60e3-1efc-4b41-8fcb-fee0ac6734fc" />
