@@ -48,3 +48,4 @@ git branch
 
 
 Result: Successfully implemented a feature-branch workflow and merged the feature into the main branch.
+<img width="632" height="512" alt="Screenshot 2026-11-10 at 8 05 42 PM" src="https://github.com/user-attachments/assets/97c87575-2c93-43d0-a2f1-c1f913f2b185" />
