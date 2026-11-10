@@ -19,19 +19,7 @@ git init
 
 Create an index.html file:(touch index.html 
 open -e index.html
-//writing the code there
-
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My Portfolio</title>
-</head>
-<body>
-    <h1>Welcome to My Portfolio</h1>
-    <p>This is my personal portfolio website.</p>
-</body>
-</html>
+//Write the cde there, format it as plaint text and rename the .txt to .html
 
 
 Check the Git status:
