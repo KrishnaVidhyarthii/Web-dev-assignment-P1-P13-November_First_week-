@@ -22,7 +22,7 @@ open -e index.html
 //writing the code there
 
 
-<!DOCTYPE html>
+/*<!DOCTYPE html>
 <html>
 <head>
     <title>My Portfolio</title>
