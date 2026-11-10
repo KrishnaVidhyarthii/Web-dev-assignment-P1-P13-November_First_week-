@@ -30,9 +30,3 @@ How to View
 3. Open its index.html file in a web browser.
 No additional installation is required for the HTML and CSS practicals.
 
-IMPORTANT
-For the initial git P1-P4 projects please check the CODE of README.md as it wraps the regular text in PREVIEW version of README.md version making it harder to read.
-<img width="861" height="939" alt="image" src="https://github.com/user-attachments/assets/54f8a05b-f880-4522-b82d-1b36725c2614" />
-
-<img width="820" height="782" alt="image" src="https://github.com/user-attachments/assets/ce158e6b-f6dd-497f-88f8-0fdb52f114fb" />
-
