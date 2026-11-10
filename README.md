@@ -16,6 +16,8 @@ The repository is organised by practical:
 - P12/ – Portfolio projects grid using CSS Grid
 - P13/ – Comparison of Flexbox and Grid
 
+Terminal screenshots are in the readme.md files of each project!
+
 Each practical's files are stored in its respective folder.
 Technologies Used
 - HTML5
