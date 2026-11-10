@@ -36,5 +36,8 @@ rmdir MyPortfolio
 
 
 Result: Successfully created a project folder, navigated through directories, and practiced basic terminal commands.
+Terminal proof:
+
+
 <img width="816" height="348" alt="Screenshot 2026-11-10 at 7 42 18 PM" src="https://github.com/user-attachments/assets/f3433a2f-6e2c-44d9-9d05-903f70de216a" />
 
