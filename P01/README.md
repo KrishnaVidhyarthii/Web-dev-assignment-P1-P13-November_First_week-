@@ -36,6 +36,7 @@ rmdir MyPortfolio
 
 
 Result: Successfully created a project folder, navigated through directories, and practiced basic terminal commands.
+
 Terminal proof:
 
 
