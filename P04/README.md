@@ -3,24 +3,7 @@ Aim: To create a README file, upload a Git repository to GitHub, and create vers
 
 Procedure:
 
-Step 1: Create README.md
-# My Portfolio
-
-## About
-This is my personal portfolio website.
-
-## Skills
-- HTML
-- CSS
-- JavaScript
-
-## Projects
-- Personal Portfolio
-- Web Development Projects
-
-## Author
-Student Name
-
+Step 1: Create OutputREADME.md
 
 Step 2: Stage and commit README
 git add README.md
@@ -49,4 +32,10 @@ Step 7: Push the tag to GitHub
 git push origin v1.0
 
 
-Result: Successfully created a README file, uploaded the repository to GitHub, and created a version tag.
+Result: Successfully created a OutputREADME file, uploaded the repository to GitHub, and created a version tag.
+
+Terminal:
+
+<img width="971" height="992" alt="Screenshot 2026-11-10 at 8 22 01 PM" src="https://github.com/user-attachments/assets/16cb44d7-1d78-4ccb-be0f-c8c1d3f01503" />
+<img width="738" height="175" alt="Screenshot 2026-11-10 at 8 22 58 PM" src="https://github.com/user-attachments/assets/b21bbe23-d29f-49b1-8fab-6e271701b501" />
+
