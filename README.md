@@ -17,6 +17,7 @@ The repository is organised by practical:
 - P13/ – Comparison of Flexbox and Grid
 
 Terminal screenshots are in the readme.md files of each project!
+And output is in the same folder.
 
 Each practical's files are stored in its respective folder.
 Technologies Used
